@@ -1,0 +1,17 @@
+Nigeria-COVID19-Data-Analysis/
+├── README.md
+├── data/
+│   ├── ncdc_data.csv
+│   ├── jhu_data.csv
+│   ├── vulnerability_index.csv
+│   ├── gdp_data.csv
+│   ├── budget_data.csv
+├── notebooks/
+│   └── Nigeria_COVID19_Analysis.ipynb
+├── reports/
+│   ├── Executive_Summary.pdf
+│   └── visualizations/
+│       ├── time_series_cases.png
+│       ├── heatmap_cases.png
+│       └── gdp_impact.png
+└── requirements.txt
